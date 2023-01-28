@@ -1,0 +1,15 @@
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/bin/Debug/net7.0/Sem1Task8
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/bin/Debug/net7.0/Sem1Task8.deps.json
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/bin/Debug/net7.0/Sem1Task8.runtimeconfig.json
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/bin/Debug/net7.0/Sem1Task8.dll
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/bin/Debug/net7.0/Sem1Task8.pdb
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/Sem1Task8.csproj.AssemblyReference.cache
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/Sem1Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/Sem1Task8.AssemblyInfoInputs.cache
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/Sem1Task8.AssemblyInfo.cs
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/Sem1Task8.csproj.CoreCompileInputs.cache
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/Sem1Task8.dll
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/refint/Sem1Task8.dll
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/Sem1Task8.pdb
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/Sem1Task8.genruntimeconfig.cache
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Task8/obj/Debug/net7.0/ref/Sem1Task8.dll

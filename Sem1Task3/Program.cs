@@ -22,20 +22,20 @@ string? imputLine = Console.ReadLine();
 
 // Вариант 2
 int imputNumber = int.Parse(imputLine);
-//     string outDayofWeek = string.Empty;
-// switch (imputNumber)
-// {
-//     case 1: outDayofWeek = "понедельник"; break;
-//     case 2: outDayofWeek = "вторник"; break;
-//     case 3: outDayofWeek = "среда"; break;
-//     case 4: outDayofWeek = "четверг"; break;
-//     case 5: outDayofWeek = "пятница"; break;
-//     case 6: outDayofWeek = "суббота"; break;
-//     case 7: outDayofWeek = "воскресенье"; break;
-//     default: outDayofWeek = "это не день недели!"; break;
-// }
-// Console.WriteLine(outDayofWeek);
-// //Вариант 3
+    string outDayofWeek = string.Empty;
+switch (imputNumber)
+{
+    case 1: outDayofWeek = "понедельник"; break;
+    case 2: outDayofWeek = "вторник"; break;
+    case 3: outDayofWeek = "среда"; break;
+    case 4: outDayofWeek = "четверг"; break;
+    case 5: outDayofWeek = "пятница"; break;
+    case 6: outDayofWeek = "суббота"; break;
+    case 7: outDayofWeek = "воскресенье"; break;
+    default: outDayofWeek = "это не день недели!"; break;
+}
+Console.WriteLine(outDayofWeek);
+// // //Вариант 3
 
-string outDayOfWeek = System.Globalization.CultureInfo.GetCultureInfo("ru-RU").DateTimeFormat.GetDayName((DayOfWeek)Enum.GetValues(typeof(DayOfWeek)).GetValue(imputNumber));
-Console.WriteLine(outDayOfWeek);
+// string outDayOfWeek = System.Globalization.CultureInfo.GetCultureInfo("ru-RU").DateTimeFormat.GetDayName((DayOfWeek)Enum.GetValues(typeof(DayOfWeek)).GetValue(imputNumber));
+// Console.WriteLine(outDayOfWeek);

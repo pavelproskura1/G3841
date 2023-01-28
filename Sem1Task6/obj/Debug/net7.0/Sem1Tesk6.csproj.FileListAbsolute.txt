@@ -1,0 +1,15 @@
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/bin/Debug/net7.0/Sem1Tesk6
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/bin/Debug/net7.0/Sem1Tesk6.deps.json
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/bin/Debug/net7.0/Sem1Tesk6.runtimeconfig.json
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/bin/Debug/net7.0/Sem1Tesk6.dll
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/bin/Debug/net7.0/Sem1Tesk6.pdb
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/Sem1Tesk6.csproj.AssemblyReference.cache
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/Sem1Tesk6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/Sem1Tesk6.AssemblyInfoInputs.cache
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/Sem1Tesk6.AssemblyInfo.cs
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/Sem1Tesk6.csproj.CoreCompileInputs.cache
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/Sem1Tesk6.dll
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/refint/Sem1Tesk6.dll
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/Sem1Tesk6.pdb
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/Sem1Tesk6.genruntimeconfig.cache
+/Users/pavel/Desktop/gruppa3841/G3841/Sem1Tesk6/obj/Debug/net7.0/ref/Sem1Tesk6.dll
